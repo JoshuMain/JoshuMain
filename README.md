@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @JJepic706
 - 👀 I’m interested in Games, modding and hacking
+- I know node.js and am alright at python 
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on mods cuz idk wtf im doing
 - 📫 How to reach me discord - JJepic706#2420
