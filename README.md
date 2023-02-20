@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JJepic706
+- 👋 Hi, I’m Joshu (@JJepic706)
 - 👀 I’m a young app developer whoo wishes to advance his programming capabiliies 
 - I know node.js and kotlin, know the basics of python 
 - 🌱 I’m currently learning C#
