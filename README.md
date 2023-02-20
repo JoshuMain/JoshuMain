@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JJepic706
-- 👀 I’m interested in Games, modding and hacking
-- I know node.js and am alright at python 
+- 👀 I’m a young app developer whoo wishes to advance his programming capabiliies 
+- I know node.js and kotlin, know the basics of python 
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on mods cuz idk wtf im doing
+- 💞️ I’m looking to program apps to help young people or games 
 - 📫 How to reach me discord - JJepic706#2420
 
 <!---
