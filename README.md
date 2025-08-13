@@ -1,6 +1,6 @@
 # Hey, I'm Josh 👋
 
-A passionate **full-stack developer** and creative problem solver. I build clean, modern apps, games, and websites using Laravel, Tailwind, C#, Kotlin, and more.
+Im a passionate **full-stack developer** and creative problem solver. I build clean, modern apps, games, and websites using Laravel, Tailwind, C#, Kotlin, and more.
 
 ---
 
@@ -37,8 +37,8 @@ Got a project or an idea that needs execution or brainstorming? I’m open to co
 
 ###  Find Me
 
+- [LinkedIn](www.linkedin.com/in/josh-main-53a612374)
 - [Portfolio Website](https://www.joshmain.dev)  
-- [GitHub](https://github.com/) (your profile link here)  
 - [Company Website](https://www.mainsoftworks.com)  
 - [Contact Me](mailto:your-email@example.com)
 
@@ -47,6 +47,6 @@ Got a project or an idea that needs execution or brainstorming? I’m open to co
 © 2025 Josh Main. All rights reserved.
 
 <!---
-JJepic706/JJepic706 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
